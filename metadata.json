@@ -1,0 +1,6 @@
+{
+  "name": "Shutdown Messenger",
+  "description": "Sistema de mensagens instantâneas minimalista, seguro por senha e otimizado para celular.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
